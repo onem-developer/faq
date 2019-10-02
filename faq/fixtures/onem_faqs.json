@@ -1,0 +1,92 @@
+[
+  {
+    "model": "faq.faq",
+    "pk": 1,
+    "fields": {
+      "category": "general",
+      "question": "What is a micro-app?",
+      "answer": "A micro-app is a powerful tool accessible via multi-channel in ONEm ecosystem, with dynamic interface and rich content. Micro-apps share a lot of website and app capabilities and in certain circumstances are superior."
+    }
+  },
+  {
+    "model": "faq.faq",
+    "pk": 2,
+    "fields": {
+      "category": "general",
+      "question": "What cannel does ONEm ecosystem offer?",
+      "answer": "ONEm's micro-apps unleash the hidden power of SMS, web and multi-channel bot engagement to power smart business applications that work on any mobile."
+    }
+  },
+  {
+    "model": "faq.faq",
+    "pk": 3,
+    "fields": {
+      "category": "developer portal",
+      "question": "How can i register as a developer?",
+      "answer": "From ONEm website press the Sign up button or just go to the Developer Portal. You will need a valid Github account."
+    }
+  },
+  {
+    "model": "faq.faq",
+    "pk": 4,
+    "fields": {
+      "category": "developer portal",
+      "question": "How can i get an API token for my micro-app?",
+      "answer": "You need to have at least an application in Developer Portal. Click on your application, select API key & permissions tab, choose your permissions and press Generate API key button."
+    }
+  },
+  {
+    "model": "faq.faq",
+    "pk": 5,
+    "fields": {
+      "category": "developer portal",
+      "question": "How can i upgrade my plan?",
+      "answer": "The plan applies to an application. In App details tab, under plan section press Change Plan button."
+    }
+  },
+  {
+    "model": "faq.faq",
+    "pk": 6,
+    "fields": {
+      "category": "developer portal",
+      "question": "How many users can access my micro-app?",
+      "answer": "Only the Free plan has a limited number of users. For more details check the Pricing section from ONEm website."
+    }
+  },
+  {
+    "model": "faq.faq",
+    "pk": 7,
+    "fields": {
+      "category": "developer portal",
+      "question": "How can i add my micro-app to ONEm Showcase?",
+      "answer": "Once you upgrade to a paid plan, you can choose to publish your application. Go to App details tab in Developer Portal and Enable Showcase Listing."
+    }
+  },
+  {
+    "model": "faq.faq",
+    "pk": 8,
+    "fields": {
+      "category": "creating a micro-app",
+      "question": "Which are the supported programming languages?",
+      "answer": "Currently ONEm provides SDKs for Python and Node.js, but you can use any programming language as long as your application response is formatted according to our response JSON schema."
+    }
+  },
+  {
+    "model": "faq.faq",
+    "pk": 9,
+    "fields": {
+      "category": "creating a micro-app",
+      "question": "Where can i find the SDKs?",
+      "answer": "The ONEm SDKs can be found in our public repository. Link is provided in the documentation."
+    }
+  },
+  {
+    "model": "faq.faq",
+    "pk": 10,
+    "fields": {
+      "category": "creating a micro-app",
+      "question": "Can i test my application before publishing it?",
+      "answer": "From Developer Portal go to Test Client section. Insert your mobile number and you can access our simulator and check your application."
+    }
+  }
+]
